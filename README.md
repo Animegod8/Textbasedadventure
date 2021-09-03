@@ -2,7 +2,7 @@
 
 THis is a game for linux using python
 
-# This repo is under maitanence
+# Download the game from the release file
 
 
 # Important
