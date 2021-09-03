@@ -1,4 +1,4 @@
-from chooseAdventure import *
+from game import *
 print('/n What is your name?')
 name = input()
 print('/n What is your hight')
