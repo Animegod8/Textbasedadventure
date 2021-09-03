@@ -1,4 +1,4 @@
-from adventure1 import *
+from adventure1 import*
 def adventureChoose():
     print('what adventure do you want do go on')
     print('1, a dagrourus quest to slay a dragon')
