@@ -12,5 +12,6 @@ print('/n is this correct y or n.')
 awnser = input()
 if awnser == 'y':
   print('you are redy for your journy my frend')
+  adven1()
 elif awnser == 'n':
   print('fuck you use this command to start over, python3 card.py')
