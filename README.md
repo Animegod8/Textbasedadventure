@@ -11,3 +11,9 @@ for debian based macines, be sure you are logged in to root#localhost. If you ar
 
 this is also for android machines using termux. using proot distro you can use differing shell installs
 
+# Imortant for termux
+
+use the commands
+chmod 700 nameofinstallscript.sh
+termux-fix-shebang nameofinstallscript.sh
+./nameofinstallscript.sh
