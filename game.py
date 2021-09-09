@@ -8,10 +8,11 @@ def adven1():
         pathoperil()
 
     elif awnser = '2':
-        print('well you take the express route')
+        print('well you take the express route you gain nothing from this journy and you are devwered by a gelationes cube the end, run python3.card.py to pick a new path')
         
     def pathoperil():
-    print('Hello world!')
+    print('Affter a long journy of non stop travaling you reach a fork in the road')
+    print('do you what 1, take the left path or 2, take the right path)
     
 def adventureChoose():
     print('what adventure do you want do go on')
